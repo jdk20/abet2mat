@@ -5,8 +5,9 @@ This repository contains a MATLAB script that can import data from the XML and C
 1. Run ABET II Touch
 2. Go to the Data Viewer tab and select your connection under Data Source
 3. Press "Search with selected Criteria" and select the session you want
-4. Under View, go to Tools and press "Export Xml" and "Export CSV"
-5. Use the function as detailed in example.m
+4. Under View, go to Tools and press "Export CSV"
+5. Under View, go to Analysis, and select the appropriate subfolder and set (for example, PD v2 Analysis Folder/PD Analysis). Press "Export Analysis" to receive the .xml file.
+6. Use the function as detailed in example.m
 
 ## Requirements
-MATLAB 2018a
+MATLAB 2018a or above
